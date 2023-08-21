@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Alokray007/order-summary-comp-FM)
-- Live Site URL: [Netlify- Live Site](https://ordersummary.netlify.app/)
+- Live Site URL: [Netlify- Live Site](https://ordersummcomp.netlify.app/)
 
 ### Built with
 
