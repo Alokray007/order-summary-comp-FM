@@ -20,9 +20,9 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![mobile](./screenshots/mobile.png)
-![desktop](./screenshots/desk.png)
-![active1](./screenshots/active.png)
+![mobile](https://raw.github.com/Alokray007/order-summary-comp-FM/main/screenshots/mobile.png)
+![desktop](https://raw.github.com/Alokray007/order-summary-comp-FM/main/screenshots/desk.png)
+![active1](https://raw.github.com/Alokray007/order-summary-comp-FM/main/screenshots/active.png)
 
 ### Links
 
